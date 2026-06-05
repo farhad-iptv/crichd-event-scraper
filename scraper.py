@@ -2,209 +2,167 @@ import requests
 import json
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime
+import pytz
 
 BASE_URL = "https://app.crichd.com"
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    "User-Agent": "Mozilla/5.0"
 }
 
 
-def get_channels(event_url):
-    channels = []
+# ======================
+# REAL BD TIME (LIVE)
+# ======================
+def get_bd_time():
+    bd = pytz.timezone("Asia/Dhaka")
+    return datetime.now(bd).strftime("%Y-%m-%d %I:%M:%S %p (BD Time)")
 
+
+# ======================
+# CHANNEL FETCH
+# ======================
+def get_channels(event_url):
     try:
         r = requests.get(event_url, headers=HEADERS, timeout=15)
         soup = BeautifulSoup(r.text, "html.parser")
 
-        rows = soup.select("table tbody tr")
+        channels = []
 
-        for row in rows:
+        for row in soup.select("table tbody tr"):
             cols = row.find_all("td")
-
             if len(cols) < 6:
                 continue
 
-            channel_name = cols[1].get_text(strip=True)
-            language = cols[4].get_text(strip=True)
-
-            watch_link = ""
-            link_tag = cols[5].find("a")
-
-            if link_tag:
-                watch_link = link_tag.get("href", "")
+            link = cols[5].find("a")
 
             channels.append({
-                "Channel name": channel_name,
-                "Language": language,
-                "Embed link": watch_link,
+                "Channel name": cols[1].get_text(strip=True),
+                "Language": cols[4].get_text(strip=True),
+                "Embed link": link["href"] if link else "",
                 "Stream link": ""
             })
 
-    except Exception as e:
-        print(f"Channel Error: {event_url} -> {e}")
+        return channels
 
-    return channels
+    except:
+        return []
 
 
-def parse_event(event_data):
+# ======================
+# EVENT PARSE
+# ======================
+def parse_event(card, category):
+
     try:
-        category = event_data["category"]
-        card = event_data["card"]
-
-        a_tag = card.find("a")
-        if not a_tag:
+        a = card.find("a")
+        if not a:
             return None
 
-        event_url = urljoin(BASE_URL, a_tag.get("href", ""))
+        event_url = urljoin(BASE_URL, a["href"])
 
         countdown = card.select_one(".data-countdown")
 
-        start_time = ""
-        end_time = ""
-        status = "UNKNOWN"
+        start = countdown.get("data-start", "") if countdown else ""
+        end = countdown.get("data-end", "") if countdown else ""
+        status_text = countdown.get_text(strip=True) if countdown else ""
 
-        if countdown:
-            start_time = countdown.get("data-start", "")
-            end_time = countdown.get("data-end", "")
-
-            status_text = countdown.get_text(strip=True)
-
-            if "Live" in status_text:
-                status = "LIVE"
-            elif "Starts" in status_text:
-                status = "UPCOMING"
+        status = "LIVE" if "Live" in status_text else "UPCOMING"
 
         teams = card.select("div.flex.gap-2.items-center")
 
-        team1_name = ""
-        team1_logo = ""
+        t1 = teams[0] if len(teams) > 0 else None
+        t2 = teams[1] if len(teams) > 1 else None
 
-        team2_name = ""
-        team2_logo = ""
+        team1 = t1.get_text(strip=True) if t1 else ""
+        team2 = t2.get_text(strip=True) if t2 else ""
 
-        if len(teams) >= 1:
-            team1_name = teams[0].get_text(strip=True)
-
-            img = teams[0].find("img")
-            if img:
-                team1_logo = img.get("src", "")
-
-        if len(teams) >= 2:
-            team2_name = teams[1].get_text(strip=True)
-
-            img = teams[1].find("img")
-            if img:
-                team2_logo = img.get("src", "")
-
-        match_name = (
-            f"{team1_name} vs {team2_name}"
-            if team1_name and team2_name
-            else team1_name
-        )
+        logo1 = t1.find("img")["src"] if t1 and t1.find("img") else ""
+        logo2 = t2.find("img")["src"] if t2 and t2.find("img") else ""
 
         channels = get_channels(event_url)
 
         return {
             "Category": category,
             "Tour/Group name": category,
-            "match name": match_name,
-            "Team 1 Name": team1_name,
-            "Team 1 Logo": team1_logo,
-            "Team 2 Name": team2_name,
-            "Team 2 Logo": team2_logo,
-            "Start time": start_time,
-            "End time": end_time,
+            "match name": f"{team1} vs {team2}" if team2 else team1,
+            "Team 1 Name": team1,
+            "Team 1 Logo": logo1,
+            "Team 2 Name": team2,
+            "Team 2 Logo": logo2,
+            "Start time": start,
+            "End time": end,
             "Status": status,
-            "Event URL": event_url,
+            "referer": "https://bhalocast.pro/",
+            "User agent": HEADERS["User-Agent"],
             "Channels": channels
         }
 
-    except Exception as e:
-        print("Event Parse Error:", e)
+    except:
         return None
 
 
+# ======================
+# SCRAPE HOME PAGE
+# ======================
 def get_events():
-    print("Fetching homepage...")
-
-    r = requests.get(BASE_URL, headers=HEADERS, timeout=20)
-    r.raise_for_status()
-
+    r = requests.get(BASE_URL, headers=HEADERS)
     soup = BeautifulSoup(r.text, "html.parser")
 
-    event_blocks = []
+    data = []
 
-    for league_header in soup.select("div.flex.items-center.gap-3.mb-3"):
+    for league in soup.select("div.flex.items-center.gap-3.mb-3"):
 
-        try:
-            category_div = league_header.select_one(
-                "div.text-gray-700"
-            )
+        cat = league.select_one("div.text-gray-700")
+        if not cat:
+            continue
 
-            if not category_div:
-                continue
+        category = cat.get_text(strip=True)
 
-            category = category_div.get_text(strip=True)
+        parent = league.parent
 
-            parent = league_header.parent
+        for card in parent.select("div.mt-3"):
+            data.append((card, category))
 
-            cards = parent.select("div.mt-3")
-
-            for card in cards:
-                event_blocks.append({
-                    "category": category,
-                    "card": card
-                })
-
-        except:
-            pass
-
-    return event_blocks
+    return data
 
 
+# ======================
+# MAIN
+# ======================
 def main():
 
     events = get_events()
 
-    print(f"Found {len(events)} events")
-
     matches = []
 
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    with ThreadPoolExecutor(max_workers=10) as ex:
+        results = ex.map(lambda x: parse_event(x[0], x[1]), events)
 
-        futures = [
-            executor.submit(parse_event, event)
-            for event in events
-        ]
+        for r in results:
+            if r:
+                matches.append(r)
 
-        for future in as_completed(futures):
-            result = future.result()
+    total_links = sum(len(m["Channels"]) for m in matches)
 
-            if result:
-                matches.append(result)
-
+    # 👉 REAL OUTPUT (NO COPY STATIC)
     output = {
-        "total_matches": len(matches),
+        "playlist_name": "CricHD-event-scrapper",
+        "owner": "Farhad Hossain",
+        "telegram": "https://t.me/farhad2736",
+        "last_updated": get_bd_time(),
+        "total_links": total_links,
         "matches": matches
     }
 
-    with open(
-        "matches.json",
-        "w",
-        encoding="utf-8"
-    ) as f:
-        json.dump(
-            output,
-            f,
-            indent=4,
-            ensure_ascii=False
-        )
+    with open("matches.json", "w", encoding="utf-8") as f:
+        json.dump(output, f, indent=4, ensure_ascii=False)
 
-    print(
-        f"Saved {len(matches)} matches to matches.json"
-    )
+    print("Live Update Done")
+    print("Matches:", len(matches))
+    print("Links:", total_links)
 
 
 if __name__ == "__main__":
