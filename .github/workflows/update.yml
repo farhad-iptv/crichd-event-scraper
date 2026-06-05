@@ -1,9 +1,12 @@
-name: Scraper Run
+name: CricHD Auto Scraper
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/15 * * * *"   # every 15 minutes
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -13,24 +16,46 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      # =====================
+      # Checkout repo
+      # =====================
+      - name: Checkout repository
         uses: actions/checkout@v4
 
+      # =====================
+      # Setup Python
+      # =====================
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
+      # =====================
+      # Install dependencies
+      # =====================
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
 
+      # =====================
+      # Run scraper
+      # =====================
       - name: Run scraper
         run: python scraper.py
 
-      - name: Commit JSON
+      # =====================
+      # Commit & push JSON
+      # =====================
+      - name: Commit & Push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
+
           git add matches.json
-          git commit -m "auto update" || exit 0
+
+          # safe commit (no crash)
+          git commit -m "auto update matches" || exit 0
+
+          git pull --rebase
+
           git push
