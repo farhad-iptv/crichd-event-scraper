@@ -9,9 +9,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -22,8 +19,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run scraper
         run: python scraper.py
@@ -33,5 +29,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add matches.json
-          git commit -m "auto update" || echo "no changes"
+          git commit -m "auto update" || exit 0
           git push
