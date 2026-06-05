@@ -2,8 +2,8 @@
     "playlist_name": "CricHD-event-scrapper",
     "owner": "Farhad Hossain",
     "telegram": "https://t.me/farhad2736",
-    "last_updated": "2026-06-06 01:24:31 AM (BD Time)",
-    "total_links": 17,
+    "last_updated": "2026-06-06 03:10:06 AM (BD Time)",
+    "total_links": 20,
     "matches": [
         {
             "Category": "International Cricket",
@@ -36,6 +36,12 @@
                     "Language": "English",
                     "Embed link": "https://crichd.st/player.php?id=willow",
                     "Stream link": ""
+                },
+                {
+                    "Channel name": "Willow Cricbuzz",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Stream link": ""
                 }
             ]
         },
@@ -54,27 +60,33 @@
             "User agent": "Mozilla/5.0",
             "Channels": [
                 {
-                    "Channel name": "Willow",
-                    "Language": "English",
-                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Channel name": "Willow 2",
+                    "Language": "Hindi",
+                    "Embed link": "https://crichd.st/player.php?id=willowextra",
                     "Stream link": ""
                 },
                 {
                     "Channel name": "Sky Sports Cricket",
                     "Language": "English",
-                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Embed link": "https://crichd.st/player.php?id=willowextra",
                     "Stream link": ""
                 },
                 {
                     "Channel name": "Sony Sports Ten 1",
                     "Language": "English",
-                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Embed link": "https://crichd.st/player.php?id=willowextra",
                     "Stream link": ""
                 },
                 {
                     "Channel name": "CricGo 2",
                     "Language": "English",
-                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Embed link": "https://crichd.st/player.php?id=willowextra",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Willow Cricbuzz",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willowextra",
                     "Stream link": ""
                 }
             ]
@@ -166,6 +178,12 @@
                 {
                     "Channel name": "Willow Cricbuzz",
                     "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=crich2",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Willow 2",
+                    "Language": "Hindi",
                     "Embed link": "https://crichd.st/player.php?id=crich2",
                     "Stream link": ""
                 }
