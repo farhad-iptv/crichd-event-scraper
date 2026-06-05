@@ -1,0 +1,124 @@
+{
+    "total_matches": 4,
+    "matches": [
+        {
+            "Category": "International Cricket",
+            "Tour/Group name": "International Cricket",
+            "match name": "England vs New Zealand",
+            "Team 1 Name": "England",
+            "Team 1 Logo": "https://cdnimg.crichd.com/team/england/logo.webp",
+            "Team 2 Name": "New Zealand",
+            "Team 2 Logo": "https://cdnimg.crichd.com/team/new-zealand/logo.webp",
+            "Start time": "2026-06-04T10:00:00.000Z",
+            "End time": "2026-06-29T18:00:00.000Z",
+            "Status": "UNKNOWN",
+            "Event URL": "https://app.crichd.com/events/england-vs-new-zealand-test-match-2026",
+            "Channels": [
+                {
+                    "Channel name": "Willow",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Sky Sports Cricket",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Sony Sports Ten 1",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "CricGo 2",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "International Cricket",
+            "Tour/Group name": "International Cricket",
+            "match name": "Sri Lanka vs West Indies",
+            "Team 1 Name": "Sri Lanka",
+            "Team 1 Logo": "https://cdnimg.crichd.com/team/sri-lanka/logo.webp",
+            "Team 2 Name": "West Indies",
+            "Team 2 Logo": "https://cdnimg.crichd.com/team/west-indies/logo.webp",
+            "Start time": "2026-06-03T14:30:00.000Z",
+            "End time": "2026-07-07T22:00:00.000Z",
+            "Status": "UNKNOWN",
+            "Event URL": "https://app.crichd.com/events/sri-lanka-vs-west-indies-live-streaming",
+            "Channels": [
+                {
+                    "Channel name": "Willow",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "TNT Sports 2",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "CricGo 1",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "International Cricket",
+            "Tour/Group name": "International Cricket",
+            "match name": "India vs Afghanistan",
+            "Team 1 Name": "India",
+            "Team 1 Logo": "https://cdnimg.crichd.com/team/india/logo.webp",
+            "Team 2 Name": "Afghanistan",
+            "Team 2 Logo": "https://cdnimg.crichd.com/team/afghanistan/logo.webp",
+            "Start time": "2026-06-06T04:00:00.000Z",
+            "End time": "2026-06-20T18:00:00.000Z",
+            "Status": "UNKNOWN",
+            "Event URL": "https://app.crichd.com/events/india-vs-afghanistan-live-streaming",
+            "Channels": []
+        },
+        {
+            "Category": "T20 Blast",
+            "Tour/Group name": "T20 Blast",
+            "match name": "Vitality T20 Blast vs T20 Blast",
+            "Team 1 Name": "Vitality T20 Blast",
+            "Team 1 Logo": "https://cdnimg.crichd.com/league/t20-blast/logo.webp",
+            "Team 2 Name": "T20 Blast",
+            "Team 2 Logo": "https://cdnimg.crichd.com/league/t20-blast/logo.webp",
+            "Start time": "2026-05-22T17:00:00.000Z",
+            "End time": "2026-07-18T21:00:00.000Z",
+            "Status": "UNKNOWN",
+            "Event URL": "https://app.crichd.com/events/t20-blast-live-streaming",
+            "Channels": [
+                {
+                    "Channel name": "Sky Sports Cricket",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=crich2",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "CricGo 3",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=crich2",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Willow Cricbuzz",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=crich2",
+                    "Stream link": ""
+                }
+            ]
+        }
+    ]
+}
