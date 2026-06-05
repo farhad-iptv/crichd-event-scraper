@@ -2,43 +2,9 @@
     "playlist_name": "CricHD-event-scrapper",
     "owner": "Farhad Hossain",
     "telegram": "https://t.me/farhad2736",
-    "last_updated": "2026-06-05 11:33:29 PM (BD Time)",
-    "total_links": 10,
+    "last_updated": "2026-06-06 01:24:31 AM (BD Time)",
+    "total_links": 17,
     "matches": [
-        {
-            "Category": "T20 Blast",
-            "Tour/Group name": "T20 Blast",
-            "match name": "Vitality T20 Blast vs T20 Blast",
-            "Team 1 Name": "Vitality T20 Blast",
-            "Team 1 Logo": "https://cdnimg.crichd.com/league/t20-blast/logo.webp",
-            "Team 2 Name": "T20 Blast",
-            "Team 2 Logo": "https://cdnimg.crichd.com/league/t20-blast/logo.webp",
-            "Start time": "2026-05-22T17:00:00.000Z",
-            "End time": "2026-07-18T21:00:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0",
-            "Channels": [
-                {
-                    "Channel name": "Sky Sports Cricket",
-                    "Language": "English",
-                    "Embed link": "https://crichd.st/player.php?id=crich2",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "CricGo 3",
-                    "Language": "English",
-                    "Embed link": "https://crichd.st/player.php?id=crich2",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Willow Cricbuzz",
-                    "Language": "English",
-                    "Embed link": "https://crichd.st/player.php?id=crich2",
-                    "Stream link": ""
-                }
-            ]
-        },
         {
             "Category": "International Cricket",
             "Tour/Group name": "International Cricket",
@@ -60,7 +26,7 @@
                     "Stream link": ""
                 },
                 {
-                    "Channel name": "TNT Sports 2",
+                    "Channel name": "TNT Sports 4",
                     "Language": "English",
                     "Embed link": "https://crichd.st/player.php?id=willow",
                     "Stream link": ""
@@ -126,7 +92,84 @@
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Willow",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Willow HD",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Star Sports 2",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Star Sports 3",
+                    "Language": "Hindi",
+                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Star Sports 1 Tamil",
+                    "Language": "Tamil",
+                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Star Sports 1 Telugu",
+                    "Language": "Telugu",
+                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "TNT Sports 3",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willow",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "T20 Blast",
+            "Tour/Group name": "T20 Blast",
+            "match name": "Vitality T20 Blast vs T20 Blast",
+            "Team 1 Name": "Vitality T20 Blast",
+            "Team 1 Logo": "https://cdnimg.crichd.com/league/t20-blast/logo.webp",
+            "Team 2 Name": "T20 Blast",
+            "Team 2 Logo": "https://cdnimg.crichd.com/league/t20-blast/logo.webp",
+            "Start time": "2026-05-22T17:00:00.000Z",
+            "End time": "2026-07-18T21:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0",
+            "Channels": [
+                {
+                    "Channel name": "Sky Sports Cricket",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=crich2",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "CricGo 3",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=crich2",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Willow Cricbuzz",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=crich2",
+                    "Stream link": ""
+                }
+            ]
         }
     ]
 }
