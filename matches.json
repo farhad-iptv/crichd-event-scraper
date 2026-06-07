@@ -2,8 +2,8 @@
     "playlist_name": "CricHD-event-scrapper",
     "owner": "Farhad Hossain",
     "telegram": "https://t.me/farhad2736",
-    "last_updated": "2026-06-07 10:00:57 PM (BD Time)",
-    "total_links": 20,
+    "last_updated": "2026-06-07 11:41:45 PM (BD Time)",
+    "total_links": 25,
     "matches": [
         {
             "Category": "International Cricket",
@@ -185,6 +185,52 @@
                     "Channel name": "Willow 2",
                     "Language": "Hindi",
                     "Embed link": "https://crichd.st/player.php?id=crich2",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Womens",
+            "Tour/Group name": "Womens",
+            "match name": "Womens T20 World Cup vs Womens",
+            "Team 1 Name": "Womens T20 World Cup",
+            "Team 1 Logo": "https://cdnimg.crichd.com/league/womens/logo.webp",
+            "Team 2 Name": "Womens",
+            "Team 2 Logo": "https://cdnimg.crichd.com/league/womens/logo.webp",
+            "Start time": "2026-06-08T09:00:00.000Z",
+            "End time": "2026-07-05T19:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0",
+            "Channels": [
+                {
+                    "Channel name": "Willow 2",
+                    "Language": "Hindi",
+                    "Embed link": "https://crichd.st/player.php?id=willowextra",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Willow Cricbuzz",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willowextra",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Star Sports 1",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willowextra",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Sky Sports Cricket",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willowextra",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Sky Sports Mix",
+                    "Language": "English",
+                    "Embed link": "https://crichd.st/player.php?id=willowextra",
                     "Stream link": ""
                 }
             ]
