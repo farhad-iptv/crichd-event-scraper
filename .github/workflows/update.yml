@@ -51,7 +51,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-          git add crichd_events.json
+          git add matches.json
 
           # safe commit (no crash)
           git commit -m "auto update matches" || exit 0
