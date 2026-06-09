@@ -2,7 +2,7 @@ name: CricHD Auto Scraper
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # every 15 minutes
+    - cron: '0 */6 * * *'   # every 15 minutes
   workflow_dispatch:
   push:
     branches:
@@ -51,7 +51,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-          git add matches.json
+          git add crichd_events.json
 
           # safe commit (no crash)
           git commit -m "auto update matches" || exit 0
