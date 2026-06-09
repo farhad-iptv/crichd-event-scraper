@@ -810,7 +810,7 @@ class CricHDScraper:
     # ------------------------------------------------------------------
     # Output
     # ------------------------------------------------------------------
-    def save_json(self, output: dict, filepath: str = "crichd_events.json"):
+    def save_json(self, output: dict, filepath: str = "matches.json"):
         with open(filepath, "w", encoding="utf-8") as fh:
             json.dump(output, fh, indent=4, ensure_ascii=False)
         print(f"\n[SAVED] {filepath}")
@@ -887,7 +887,7 @@ def main():
 
     scraper.print_summary(output)
 
-    scraper.save_json(output, "crichd_events.json")
+    scraper.save_json(output, "matches.json")
 
     print("[DONE] Scraping complete.")
 
