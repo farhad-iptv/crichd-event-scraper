@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-06-16 10:45:11 PM (BD Time)",
-    "total_links": 40,
+    "last_updated": "2026-06-17 02:47:05 AM (BD Time)",
+    "total_links": 38,
     "matches": [
         {
             "Category": "Cricket",
@@ -186,20 +186,6 @@
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
                 {
-                    "channel_name": "Willow Cricket",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willow",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Willow HD",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willowhd",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
                     "channel_name": "T Sports HD",
                     "channel_language": "English",
                     "stream_url": "https://cricstreams.org/player.php?id=gtv",
@@ -223,7 +209,7 @@
                 {
                     "channel_name": "TNT Cricket",
                     "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=crich11",
+                    "stream_url": "https://cricstreams.org/player.php?id=crich13",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
