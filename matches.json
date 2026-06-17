@@ -1,7 +1,7 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-06-17 04:49:49 PM (BD Time)",
+    "last_updated": "2026-06-17 09:19:22 PM (BD Time)",
     "total_links": 37,
     "matches": [
         {
@@ -203,43 +203,6 @@
         },
         {
             "Category": "Cricket",
-            "Tour/Group name": "Tri-Series",
-            "match name": "India A vs Afghanistan A",
-            "Team 1 Name": "India A",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
-            "Team 2 Name": "Afghanistan A",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/afghanistan-a/logo.webp",
-            "Start time": "2026-06-17T04:30:00.000Z",
-            "End time": "2026-06-17T08:00:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://crichd.top/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "channel_name": "Willow Xtra",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willowextra",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Sony Sports Ten 1",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=ten1",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "CricGo 5",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=cricgo5",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                }
-            ]
-        },
-        {
-            "Category": "Cricket",
             "Tour/Group name": "India vs AFG",
             "match name": "2nd ODI India vs Afghanistan",
             "Team 1 Name": "India",
@@ -318,9 +281,9 @@
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
                 {
-                    "channel_name": "Sony Sports Ten 1",
+                    "channel_name": "Sony Sports Ten 2",
                     "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=ten1",
+                    "stream_url": "https://cricstreams.org/player.php?id=ten2",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
@@ -386,6 +349,43 @@
                     "channel_name": "TNT Cricket",
                     "channel_language": "English",
                     "stream_url": "https://cricstreams.org/player.php?id=crich12",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "Vitality T20 Blast",
+            "match name": "T20 Blast 2026",
+            "Team 1 Name": "T20 Blast 2026",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/t20-blast-2026/logo.webp",
+            "Team 2 Name": "TBD",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
+            "Start time": "2026-06-26T17:30:00.000Z",
+            "End time": "2026-06-26T21:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Willow Xtra",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=willowextra",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "CricGo 3",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=cricgo3",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Sky Cricket",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=crich2",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
