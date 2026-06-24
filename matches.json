@@ -1,7 +1,7 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-06-24 08:52:43 AM (BD Time)",
+    "last_updated": "2026-06-24 03:22:56 PM (BD Time)",
     "total_links": 17,
     "matches": [
         {
@@ -167,6 +167,21 @@
         },
         {
             "Category": "Cricket",
+            "Tour/Group name": "IND vs IRE",
+            "match name": "1st T20 India vs Ireland",
+            "Team 1 Name": "India",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+            "Team 2 Name": "Ireland",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+            "Start time": "2026-06-26T12:30:00.000Z",
+            "End time": "2026-06-26T16:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Cricket",
             "Tour/Group name": "Vitality T20 Blast",
             "match name": "T20 Blast 2026",
             "Team 1 Name": "T20 Blast 2026",
@@ -201,6 +216,21 @@
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
             ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "IND vs IRE",
+            "match name": "2nd T20 India vs Ireland",
+            "Team 1 Name": "India",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+            "Team 2 Name": "Ireland",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+            "Start time": "2026-06-28T12:30:00.000Z",
+            "End time": "2026-06-28T16:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
         }
     ]
 }
