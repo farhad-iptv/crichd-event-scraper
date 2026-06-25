@@ -1,7 +1,7 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-06-25 02:56:21 PM (BD Time)",
+    "last_updated": "2026-06-25 08:24:38 PM (BD Time)",
     "total_links": 22,
     "matches": [
         {
@@ -116,7 +116,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
             "Start time": "2026-06-25T10:00:00.000Z",
             "End time": "2026-06-25T13:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -167,7 +167,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
             "Start time": "2026-06-25T13:45:00.000Z",
             "End time": "2026-06-25T17:15:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
