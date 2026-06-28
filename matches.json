@@ -1,15 +1,59 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-06-28 09:27:27 AM (BD Time)",
-    "total_links": 31,
+    "last_updated": "2026-06-28 02:47:41 PM (BD Time)",
+    "total_links": 29,
     "matches": [
         {
             "Category": "Cricket",
-            "Tour/Group name": "WT20 WC",
-            "match name": "Women’s T20 World Cup 2026",
-            "Team 1 Name": "Women’s T20 World Cup 2026",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/womens-t20-world-cup-2026/logo.webp",
+            "Tour/Group name": "International Cricket",
+            "match name": "England vs New Zealand Test Series",
+            "Team 1 Name": "England",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+            "Team 2 Name": "New Zealand Test Series",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/new-zealand-test-series/logo.webp",
+            "Start time": "2026-06-04T10:00:00.000Z",
+            "End time": "2026-06-04T13:30:00.000Z",
+            "Status": "LIVE",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Willow 2",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=willowextra",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Sky Sports Cricket",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=willowextra",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Sony Sports Ten 2",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=willowextra",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "CricGo 2",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=willowextra",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "Womens",
+            "match name": "Womens T20 World Cup",
+            "Team 1 Name": "Womens T20 World Cup",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/womens-t20-world-cup/logo.webp",
             "Team 2 Name": "TBD",
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
             "Start time": "2026-06-08T09:00:00.000Z",
@@ -19,14 +63,7 @@
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
                 {
-                    "channel_name": "Willow Cricket",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willow",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Willow Xtra",
+                    "channel_name": "Willow 2",
                     "channel_language": "English",
                     "stream_url": "https://cricstreams.org/player.php?id=willowextra",
                     "referer": "https://crichd.top/",
@@ -35,28 +72,28 @@
                 {
                     "channel_name": "Star Sports 1",
                     "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=starsp",
+                    "stream_url": "https://cricstreams.org/player.php?id=willowextra",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
-                    "channel_name": "Star Sports Hindi",
+                    "channel_name": "Sky Sports Cricket",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=willowextra",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Willow",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=willowextra",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Star Sports 1 Hindi",
                     "channel_language": "Hindi",
-                    "stream_url": "https://cricstreams.org/player.php?id=starsp3",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Sky Cricket",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=crich2",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Sky Cricket",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=skymix",
+                    "stream_url": "https://cricstreams.org/player.php?id=willowextra",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
@@ -64,20 +101,27 @@
         },
         {
             "Category": "Cricket",
-            "Tour/Group name": "MLC",
-            "match name": "MLC T20",
-            "Team 1 Name": "MLC T20",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/mlc-t20/logo.webp",
+            "Tour/Group name": "MLC T20",
+            "match name": "MLC 2026",
+            "Team 1 Name": "MLC 2026",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/mlc-2026/logo.webp",
             "Team 2 Name": "TBD",
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
-            "Start time": "2026-06-19T00:00:00.000Z",
-            "End time": "2026-06-19T03:30:00.000Z",
+            "Start time": "2026-06-19T00:30:00.000Z",
+            "End time": "2026-06-19T04:00:00.000Z",
             "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
                 {
-                    "channel_name": "Willow Cricket",
+                    "channel_name": "Willow",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=willow",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Willow HD",
                     "channel_language": "English",
                     "stream_url": "https://cricstreams.org/player.php?id=willow",
                     "referer": "https://crichd.top/",
@@ -86,21 +130,14 @@
                 {
                     "channel_name": "Star Sports 2",
                     "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=starsp2",
+                    "stream_url": "https://cricstreams.org/player.php?id=willow",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
-                    "channel_name": "Willow HD",
+                    "channel_name": "Sky Sports Cricket",
                     "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willowhd",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Sky Cricket",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=crich2",
+                    "stream_url": "https://cricstreams.org/player.php?id=willow",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
@@ -108,71 +145,34 @@
         },
         {
             "Category": "Cricket",
-            "Tour/Group name": "ENG vs NZ",
-            "match name": "3rd Test England vs New Zealand",
-            "Team 1 Name": "England",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-            "Team 2 Name": "New Zealand",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-            "Start time": "2026-06-25T10:00:00.000Z",
-            "End time": "2026-06-25T13:30:00.000Z",
+            "Tour/Group name": "International Cricket",
+            "match name": "Sri Lanka vs West Indies",
+            "Team 1 Name": "Sri Lanka",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
+            "Team 2 Name": "West Indies",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
+            "Start time": "2026-06-25T14:00:00.000Z",
+            "End time": "2026-06-25T17:30:00.000Z",
             "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
                 {
-                    "channel_name": "Willow Xtra",
+                    "channel_name": "Willow",
                     "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willowextra",
+                    "stream_url": "https://cricstreams.org/player.php?id=willow",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
-                    "channel_name": "Sony Sports Ten 2",
+                    "channel_name": "TNT Sports 4",
                     "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=ten2",
+                    "stream_url": "https://cricstreams.org/player.php?id=willow",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
-                    "channel_name": "CricGo 2",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=cricgo2",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Sky Cricket",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=crich2",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Sky Cricket HD",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=spch61",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                }
-            ]
-        },
-        {
-            "Category": "Cricket",
-            "Tour/Group name": "WI vs SL",
-            "match name": "West Indies vs Sri Lanka",
-            "Team 1 Name": "West Indies",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
-            "Team 2 Name": "Sri Lanka",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
-            "Start time": "2026-06-25T13:45:00.000Z",
-            "End time": "2026-06-25T17:15:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://crichd.top/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "channel_name": "Willow Cricket",
+                    "channel_name": "CricGo 1",
                     "channel_language": "English",
                     "stream_url": "https://cricstreams.org/player.php?id=willow",
                     "referer": "https://crichd.top/",
@@ -181,21 +181,7 @@
                 {
                     "channel_name": "Willow HD",
                     "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willowhd",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "CricGo 1",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=cricgo1",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "TNT Cricket",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=crich11",
+                    "stream_url": "https://cricstreams.org/player.php?id=willow",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
@@ -203,10 +189,75 @@
         },
         {
             "Category": "Cricket",
-            "Tour/Group name": "Vitality T20 Blast",
-            "match name": "T20 Blast 2026",
-            "Team 1 Name": "T20 Blast 2026",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/t20-blast-2026/logo.webp",
+            "Tour/Group name": "International Cricket",
+            "match name": "India vs Ireland",
+            "Team 1 Name": "India",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+            "Team 2 Name": "Ireland",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+            "Start time": "2026-06-26T12:30:00.000Z",
+            "End time": "2026-06-26T16:00:00.000Z",
+            "Status": "LIVE",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Willow",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=willow",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Sony Sports Ten 1",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=willow",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Sony Sports Ten 3",
+                    "channel_language": "Hindi",
+                    "stream_url": "https://cricstreams.org/player.php?id=willow",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Willow HD",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=willow",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "CricGo 4",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=willow",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "CricGo 5",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=willow",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "TNT Sports 4",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=willow",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "T20 Blast",
+            "match name": "Vitality T20 Blast",
+            "Team 1 Name": "Vitality T20 Blast",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/vitality-t20-blast/logo.webp",
             "Team 2 Name": "TBD",
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
             "Start time": "2026-06-26T17:30:00.000Z",
@@ -216,21 +267,21 @@
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
                 {
-                    "channel_name": "Willow Xtra",
+                    "channel_name": "Sky Sports Cricket",
                     "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willowextra",
+                    "stream_url": "https://cricstreams.org/player.php?id=crich2",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
                     "channel_name": "CricGo 3",
                     "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=cricgo3",
+                    "stream_url": "https://cricstreams.org/player.php?id=crich2",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
-                    "channel_name": "Sky Cricket",
+                    "channel_name": "Willow 2",
                     "channel_language": "English",
                     "stream_url": "https://cricstreams.org/player.php?id=crich2",
                     "referer": "https://crichd.top/",
@@ -240,7 +291,7 @@
         },
         {
             "Category": "Cricket",
-            "Tour/Group name": "Ban vs Zim",
+            "Tour/Group name": "International Cricket",
             "match name": "Bangladesh vs Zimbabwe",
             "Team 1 Name": "Bangladesh",
             "Team 1 Logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
@@ -248,86 +299,21 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
             "Start time": "2026-06-28T08:00:00.000Z",
             "End time": "2026-06-28T11:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
-                {
-                    "channel_name": "T Sports HD",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=gtv",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
                 {
                     "channel_name": "CricGo 3",
                     "channel_language": "English",
                     "stream_url": "https://cricstreams.org/player.php?id=cricgo3",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                }
-            ]
-        },
-        {
-            "Category": "Cricket",
-            "Tour/Group name": "IND vs IRE",
-            "match name": "2nd T20 India vs Ireland",
-            "Team 1 Name": "India",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
-            "Team 2 Name": "Ireland",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-            "Start time": "2026-06-28T12:30:00.000Z",
-            "End time": "2026-06-28T16:00:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://crichd.top/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
+                },
                 {
-                    "channel_name": "Willow Cricket",
+                    "channel_name": "T Sports",
                     "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willow",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Sony Sports Ten 1",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=ten1",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Sony Sports Ten 3",
-                    "channel_language": "Hindi",
-                    "stream_url": "https://cricstreams.org/player.php?id=ten3",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Willow HD",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willowhd",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "CricGo 4",
-                    "channel_language": "Tamil",
-                    "stream_url": "https://cricstreams.org/player.php?id=cricgo4",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "CricGo 5",
-                    "channel_language": "Hindi",
-                    "stream_url": "https://cricstreams.org/player.php?id=cricgo5",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "TNT Cricket",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=crich14",
+                    "stream_url": "https://cricstreams.org/player.php?id=cricgo3",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
