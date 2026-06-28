@@ -1,74 +1,9 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-06-28 07:29:26 PM (BD Time)",
-    "total_links": 29,
+    "last_updated": "2026-06-29 01:14:05 AM (BD Time)",
+    "total_links": 22,
     "matches": [
-        {
-            "Category": "Cricket",
-            "Tour/Group name": "International Cricket",
-            "match name": "India vs Ireland",
-            "Team 1 Name": "India",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
-            "Team 2 Name": "Ireland",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-            "Start time": "2026-06-28T12:30:00.000Z",
-            "End time": "2026-06-28T16:00:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://crichd.top/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "channel_name": "Willow",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willow",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Sony Sports Ten 1",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=ten1",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Sony Sports Ten 3",
-                    "channel_language": "Hindi",
-                    "stream_url": "https://cricstreams.org/player.php?id=ten3",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Willow HD",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willowhd",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "CricGo 4",
-                    "channel_language": "Tamil",
-                    "stream_url": "https://cricstreams.org/player.php?id=cricgo4",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "CricGo 5",
-                    "channel_language": "Hindi",
-                    "stream_url": "https://cricstreams.org/player.php?id=cricgo5",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "TNT Sports 4",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=crich14",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                }
-            ]
-        },
         {
             "Category": "Cricket",
             "Tour/Group name": "International Cricket",
