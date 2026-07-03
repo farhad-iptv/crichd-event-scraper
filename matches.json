@@ -1,7 +1,7 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-07-03 02:57:46 PM (BD Time)",
+    "last_updated": "2026-07-03 07:55:38 PM (BD Time)",
     "total_links": 27,
     "matches": [
         {
@@ -86,7 +86,7 @@
                 {
                     "channel_name": "TNT Cricket",
                     "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=crich11",
+                    "stream_url": "https://cricstreams.org/player.php?id=crich12",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
