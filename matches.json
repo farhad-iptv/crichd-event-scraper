@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-07-05 07:23:14 PM (BD Time)",
-    "total_links": 27,
+    "last_updated": "2026-07-06 01:12:08 AM (BD Time)",
+    "total_links": 21,
     "matches": [
         {
             "Category": "Cricket",
@@ -124,64 +124,6 @@
                     "channel_name": "Sky Cricket",
                     "channel_language": "English",
                     "stream_url": "https://cricstreams.org/player.php?id=crich2",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                }
-            ]
-        },
-        {
-            "Category": "Cricket",
-            "Tour/Group name": "WT20 WC",
-            "match name": "Women’s T20 World Cup 2026",
-            "Team 1 Name": "Women’s T20 World Cup 2026",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/womens-t20-world-cup-2026/logo.webp",
-            "Team 2 Name": "TBD",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
-            "Start time": "2026-07-03T17:30:00.000Z",
-            "End time": "2026-07-03T21:00:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://crichd.top/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "channel_name": "Willow Cricket",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willow",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Willow Xtra",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willowextra",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Star Sports 1",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=starsp",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Star Sports Hindi",
-                    "channel_language": "Hindi",
-                    "stream_url": "https://cricstreams.org/player.php?id=starsp3",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Sky Cricket",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=crich2",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Sky Cricket",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=skymix",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
