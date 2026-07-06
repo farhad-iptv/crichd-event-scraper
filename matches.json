@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-07-06 08:49:03 AM (BD Time)",
-    "total_links": 21,
+    "last_updated": "2026-07-06 04:11:50 PM (BD Time)",
+    "total_links": 20,
     "matches": [
         {
             "Category": "Cricket",
@@ -158,6 +158,13 @@
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
+                    "channel_name": "Sony Sports Ten 5",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=sonysix",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
                     "channel_name": "Sony Sports Ten 3",
                     "channel_language": "Hindi",
                     "stream_url": "https://cricstreams.org/player.php?id=ten3",
@@ -175,20 +182,6 @@
                     "channel_name": "CricGo 4",
                     "channel_language": "Tamil",
                     "stream_url": "https://cricstreams.org/player.php?id=cricgo4",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "CricGo 6",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=cricgo6",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "CricGo 5",
-                    "channel_language": "Hindi",
-                    "stream_url": "https://cricstreams.org/player.php?id=cricgo5",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
@@ -211,7 +204,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
             "Start time": "2026-07-06T07:30:00.000Z",
             "End time": "2026-07-06T11:00:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
