@@ -1,7 +1,7 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-07-12 12:56:48 AM (BD Time)",
+    "last_updated": "2026-07-12 08:24:56 AM (BD Time)",
     "total_links": 25,
     "matches": [
         {
@@ -93,8 +93,8 @@
             "Team 1 Logo": "https://cdn.img4every1.org/team/t20-blast-2026/logo.webp",
             "Team 2 Name": "TBD",
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
-            "Start time": "2026-07-10T17:30:00.000Z",
-            "End time": "2026-07-10T21:00:00.000Z",
+            "Start time": "2026-07-11T17:30:00.000Z",
+            "End time": "2026-07-11T21:00:00.000Z",
             "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -138,29 +138,43 @@
         },
         {
             "Category": "Cricket",
-            "Tour/Group name": "Ban vs Zim",
-            "match name": "Bangladesh vs Zimbabwe",
-            "Team 1 Name": "Bangladesh",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
-            "Team 2 Name": "Zimbabwe",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
-            "Start time": "2026-07-11T07:30:00.000Z",
-            "End time": "2026-07-11T11:00:00.000Z",
+            "Tour/Group name": "NZ vs WI",
+            "match name": "1st ODI New Zealand vs West Indies",
+            "Team 1 Name": "New Zealand",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+            "Team 2 Name": "West Indies",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
+            "Start time": "2026-07-11T18:30:00.000Z",
+            "End time": "2026-07-11T22:00:00.000Z",
             "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
                 {
-                    "channel_name": "T Sports HD",
+                    "channel_name": "Willow Cricket",
                     "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=gtv",
+                    "stream_url": "https://cricstreams.org/player.php?id=willow",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
-                    "channel_name": "CricGo 3",
+                    "channel_name": "Willow HD",
                     "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=cricgo3",
+                    "stream_url": "https://cricstreams.org/player.php?id=willowhd",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "CricGo 1",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=cricgo1",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "TNT Cricket",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=crich14",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
@@ -174,9 +188,9 @@
             "Team 1 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
             "Team 2 Name": "England",
             "Team 2 Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-            "Start time": "2026-07-11T13:00:00.000Z",
-            "End time": "2026-07-11T16:30:00.000Z",
-            "Status": "LIVE",
+            "Start time": "2026-07-14T09:30:00.000Z",
+            "End time": "2026-07-14T13:00:00.000Z",
+            "Status": "UPCOMING",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -233,43 +247,29 @@
         },
         {
             "Category": "Cricket",
-            "Tour/Group name": "NZ vs WI",
-            "match name": "1st ODI New Zealand vs West Indies",
-            "Team 1 Name": "New Zealand",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-            "Team 2 Name": "West Indies",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
-            "Start time": "2026-07-11T18:30:00.000Z",
-            "End time": "2026-07-11T22:00:00.000Z",
-            "Status": "LIVE",
+            "Tour/Group name": "Ban vs Zim",
+            "match name": "Bangladesh vs Zimbabwe",
+            "Team 1 Name": "Bangladesh",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
+            "Team 2 Name": "Zimbabwe",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
+            "Start time": "2026-07-15T10:30:00.000Z",
+            "End time": "2026-07-15T14:00:00.000Z",
+            "Status": "UPCOMING",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
                 {
-                    "channel_name": "Willow Cricket",
+                    "channel_name": "T Sports HD",
                     "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willow",
+                    "stream_url": "https://cricstreams.org/player.php?id=gtv",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
-                    "channel_name": "Willow HD",
+                    "channel_name": "CricGo 3",
                     "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willowhd",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "CricGo 1",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=cricgo1",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "TNT Cricket",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=crich14",
+                    "stream_url": "https://cricstreams.org/player.php?id=cricgo3",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
