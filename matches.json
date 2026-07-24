@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-07-24 08:22:23 AM (BD Time)",
-    "total_links": 25,
+    "last_updated": "2026-07-24 02:21:13 PM (BD Time)",
+    "total_links": 20,
     "matches": [
         {
             "Category": "Cricket",
@@ -116,57 +116,6 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
             "Start time": "2026-07-23T13:45:00.000Z",
             "End time": "2026-07-23T17:15:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://crichd.top/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "channel_name": "Channel HD",
-                    "channel_language": "English",
-                    "stream_url": "",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Willow Cricket",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willow",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "A Sports HD",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=asports",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Willow HD",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=willowhd",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "CricGo 4",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=cricgo4",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                }
-            ]
-        },
-        {
-            "Category": "Cricket",
-            "Tour/Group name": "GSL T20",
-            "match name": "Guyana Amazon Warriors vs San Francisco Unicorns",
-            "Team 1 Name": "Guyana Amazon Warriors",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/guyana-amazon-warriors/logo.webp",
-            "Team 2 Name": "San Francisco Unicorns",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/san-francisco-unicorns/logo.webp",
-            "Start time": "2026-07-23T23:00:00.000Z",
-            "End time": "2026-07-24T02:30:00.000Z",
             "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
