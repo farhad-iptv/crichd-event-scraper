@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-07-31 07:55:49 PM (BD Time)",
-    "total_links": 18,
+    "last_updated": "2026-08-01 01:19:11 AM (BD Time)",
+    "total_links": 19,
     "matches": [
         {
             "Category": "Cricket",
@@ -139,7 +139,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
             "Start time": "2026-07-31T15:30:00.000Z",
             "End time": "2026-07-31T19:00:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -154,6 +154,13 @@
                     "channel_name": "Star Sports Hindi",
                     "channel_language": "Hindi",
                     "stream_url": "https://cricstreams.org/player.php?id=starsp3",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "CricGo 6",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=cricgo6",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
