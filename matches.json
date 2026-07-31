@@ -1,7 +1,7 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-07-31 02:44:12 PM (BD Time)",
+    "last_updated": "2026-07-31 07:55:49 PM (BD Time)",
     "total_links": 18,
     "matches": [
         {
@@ -151,9 +151,9 @@
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
-                    "channel_name": "CricGo 6",
-                    "channel_language": "English",
-                    "stream_url": "https://cricstreams.org/player.php?id=cricgo6",
+                    "channel_name": "Star Sports Hindi",
+                    "channel_language": "Hindi",
+                    "stream_url": "https://cricstreams.org/player.php?id=starsp3",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
