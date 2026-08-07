@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-08-07 01:08:57 PM (BD Time)",
-    "total_links": 21,
+    "last_updated": "2026-08-07 06:54:39 PM (BD Time)",
+    "total_links": 25,
     "matches": [
         {
             "Category": "Cricket",
@@ -57,6 +57,50 @@
         },
         {
             "Category": "Cricket",
+            "Tour/Group name": "IND vs SL",
+            "match name": "India vs SLC",
+            "Team 1 Name": "India",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+            "Team 2 Name": "SLC",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/slc/logo.webp",
+            "Start time": "2026-08-07T04:00:00.000Z",
+            "End time": "2026-08-07T07:30:00.000Z",
+            "Status": "LIVE",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Sony Sports Ten 1",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=ten1",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Sony Sports Ten 3",
+                    "channel_language": "Hindi",
+                    "stream_url": "https://cricstreams.org/player.php?id=ten3",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "CricGo 1",
+                    "channel_language": "English",
+                    "stream_url": "https://cricstreams.org/player.php?id=cricgo1",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
             "Tour/Group name": "AFG vs IRE",
             "match name": "2nd ODI Afghanistan vs Ireland",
             "Team 1 Name": "Afghanistan",
@@ -65,7 +109,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
             "Start time": "2026-08-07T09:45:00.000Z",
             "End time": "2026-08-07T13:15:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
