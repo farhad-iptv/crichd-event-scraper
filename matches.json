@@ -1,7 +1,7 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-08-08 12:50:25 AM (BD Time)",
+    "last_updated": "2026-08-08 07:16:09 AM (BD Time)",
     "total_links": 23,
     "matches": [
         {
@@ -153,7 +153,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
             "Start time": "2026-08-07T22:45:00.000Z",
             "End time": "2026-08-08T02:15:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -204,7 +204,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/kingsmen/logo.webp",
             "Start time": "2026-08-07T23:00:00.000Z",
             "End time": "2026-08-08T02:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
