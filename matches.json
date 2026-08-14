@@ -1,7 +1,7 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-08-14 12:58:13 AM (BD Time)",
+    "last_updated": "2026-08-14 07:38:32 AM (BD Time)",
     "total_links": 24,
     "matches": [
         {
@@ -79,7 +79,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
             "Start time": "2026-08-13T23:00:00.000Z",
             "End time": "2026-08-14T02:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -98,13 +98,6 @@
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
-                    "channel_name": "Willow",
-                    "channel_language": "English",
-                    "stream_url": "https://crichdsee.st/player.php?id=willowbuzz",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
                     "channel_name": "Star Sports 2",
                     "channel_language": "English",
                     "stream_url": "https://crichdsee.st/player.php?id=starsp2",
@@ -112,9 +105,16 @@
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
+                    "channel_name": "CricGo 5",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=cricgo5",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
                     "channel_name": "TNT Cricket",
                     "channel_language": "English",
-                    "stream_url": "https://crichdsee.st/player.php?id=crich12",
+                    "stream_url": "https://crichdsee.st/player.php?id=crich11",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
