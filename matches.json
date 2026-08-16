@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-08-16 12:23:10 AM (BD Time)",
-    "total_links": 40,
+    "last_updated": "2026-08-16 07:03:26 AM (BD Time)",
+    "total_links": 36,
     "matches": [
         {
             "Category": "Cricket",
@@ -208,50 +208,6 @@
         },
         {
             "Category": "Cricket",
-            "Tour/Group name": "AFG vs IRE",
-            "match name": "5th ODI Afghanistan vs Ireland",
-            "Team 1 Name": "Afghanistan",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
-            "Team 2 Name": "Ireland",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
-            "Start time": "2026-08-15T09:45:00.000Z",
-            "End time": "2026-08-15T13:15:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://crichd.top/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "channel_name": "Channel HD",
-                    "channel_language": "English",
-                    "stream_url": "",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Willow Xtra",
-                    "channel_language": "English",
-                    "stream_url": "https://crichdsee.st/player.php?id=willowextra",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "CricGo 2",
-                    "channel_language": "English",
-                    "stream_url": "https://crichdsee.st/player.php?id=cricgo2",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "CricGo 6",
-                    "channel_language": "English",
-                    "stream_url": "https://crichdsee.st/player.php?id=cricgo6",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                }
-            ]
-        },
-        {
-            "Category": "Cricket",
             "Tour/Group name": "Domestic",
             "match name": "National Champions Cup 2026",
             "Team 1 Name": "National Champions Cup 2026",
@@ -320,7 +276,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
             "Start time": "2026-08-16T00:00:00.000Z",
             "End time": "2026-08-16T03:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
