@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-08-18 06:37:14 PM (BD Time)",
-    "total_links": 26,
+    "last_updated": "2026-08-19 12:32:12 AM (BD Time)",
+    "total_links": 44,
     "matches": [
         {
             "Category": "Cricket",
@@ -70,7 +70,7 @@
                 {
                     "channel_name": "TNT Cricket",
                     "channel_language": "English",
-                    "stream_url": "https://crichdsee.st/player.php?id=crich11",
+                    "stream_url": "https://crichdsee.st/player.php?id=crich12",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
@@ -142,7 +142,7 @@
                 {
                     "channel_name": "TNT Cricket",
                     "channel_language": "English",
-                    "stream_url": "https://crichdsee.st/player.php?id=crich11",
+                    "stream_url": "https://crichdsee.st/player.php?id=crich12",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
@@ -156,8 +156,8 @@
             "Team 1 Logo": "https://cdn.img4every1.org/team/national-champions-cup-2026/logo.webp",
             "Team 2 Name": "TBD",
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
-            "Start time": "2026-08-15T10:00:00.000Z",
-            "End time": "2026-08-15T13:30:00.000Z",
+            "Start time": "2026-08-18T10:00:00.000Z",
+            "End time": "2026-08-18T13:30:00.000Z",
             "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -186,8 +186,8 @@
             "Team 1 Logo": "https://cdn.img4every1.org/team/tnpl-t20/logo.webp",
             "Team 2 Name": "TBD",
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
-            "Start time": "2026-08-15T14:00:00.000Z",
-            "End time": "2026-08-15T17:30:00.000Z",
+            "Start time": "2026-08-18T14:00:00.000Z",
+            "End time": "2026-08-18T17:30:00.000Z",
             "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -216,9 +216,9 @@
             "Team 1 Logo": "https://cdn.img4every1.org/team/caribbean-premier-league/logo.webp",
             "Team 2 Name": "TBD",
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
-            "Start time": "2026-08-16T23:00:00.000Z",
-            "End time": "2026-08-17T02:30:00.000Z",
-            "Status": "LIVE",
+            "Start time": "2026-08-19T00:00:00.000Z",
+            "End time": "2026-08-19T03:30:00.000Z",
+            "Status": "UPCOMING",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -260,7 +260,181 @@
                 {
                     "channel_name": "TNT Cricket",
                     "channel_language": "English",
-                    "stream_url": "https://crichdsee.st/player.php?id=crich12",
+                    "stream_url": "https://crichdsee.st/player.php?id=crich13",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "CPL T20",
+            "match name": "Kingsmen vs Patriots",
+            "Team 1 Name": "Kingsmen",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/kingsmen/logo.webp",
+            "Team 2 Name": "Patriots",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/patriots/logo.webp",
+            "Start time": "2026-08-19T00:00:00.000Z",
+            "End time": "2026-08-19T03:30:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Willow Cricket",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=willow",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Star Sports 2",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=starsp2",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Willow HD",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=willowhd",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "CricGo 5",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=cricgo5",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "TNT Cricket",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=crich13",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "PAK vs ENG",
+            "match name": "Pakistan vs England",
+            "Team 1 Name": "Pakistan",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
+            "Team 2 Name": "England",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+            "Start time": "2026-08-19T09:30:00.000Z",
+            "End time": "2026-08-19T13:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Willow Xtra",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=willowextra",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Willow",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=willowbuzz",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "PTV Sports",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=ptvsp",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "CricGo 1",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=cricgo1",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Sky Cricket",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=crich2",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "PAK vs ENG",
+            "match name": "Pakistan vs England 1st Test",
+            "Team 1 Name": "Pakistan",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
+            "Team 2 Name": "England 1st Test",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/england-1st-test/logo.webp",
+            "Start time": "2026-08-19T10:00:00.000Z",
+            "End time": "2026-08-19T13:30:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Willow Xtra",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=willowextra",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Willow",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=willowbuzz",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "PTV Sports",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=ptvsp",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "CricGo 1",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=cricgo1",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Sky Cricket",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=crich2",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
