@@ -1,39 +1,9 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-08-23 07:05:06 AM (BD Time)",
+    "last_updated": "2026-08-23 12:34:41 PM (BD Time)",
     "total_links": 38,
     "matches": [
-        {
-            "Category": "Cricket",
-            "Tour/Group name": "T20 League",
-            "match name": "TNPL T20",
-            "Team 1 Name": "TNPL T20",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/tnpl-t20/logo.webp",
-            "Team 2 Name": "TBD",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
-            "Start time": "2026-08-20T14:00:00.000Z",
-            "End time": "2026-08-20T17:30:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://crichd.top/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "channel_name": "Channel HD",
-                    "channel_language": "English",
-                    "stream_url": "",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Sony Sports Ten 4",
-                    "channel_language": "Tamil",
-                    "stream_url": "https://crichdsee.st/player.php?id=sonyespn",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                }
-            ]
-        },
         {
             "Category": "Cricket",
             "Tour/Group name": "CPL T20",
@@ -190,7 +160,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
             "Start time": "2026-08-23T04:00:00.000Z",
             "End time": "2026-08-23T07:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -262,7 +232,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
             "Start time": "2026-08-23T04:30:00.000Z",
             "End time": "2026-08-23T08:00:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -319,6 +289,36 @@
                     "channel_name": "TNT Cricket",
                     "channel_language": "English",
                     "stream_url": "https://crichdsee.st/player.php?id=crich13",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "T20 League",
+            "match name": "TNPL T20",
+            "Team 1 Name": "TNPL T20",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/tnpl-t20/logo.webp",
+            "Team 2 Name": "TBD",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
+            "Start time": "2026-08-23T14:00:00.000Z",
+            "End time": "2026-08-23T17:30:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Sony Sports Ten 4",
+                    "channel_language": "Tamil",
+                    "stream_url": "https://crichdsee.st/player.php?id=sonyespn",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
