@@ -1,39 +1,9 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-09-01 09:59:57 PM (BD Time)",
-    "total_links": 20,
+    "last_updated": "2026-09-02 02:28:42 AM (BD Time)",
+    "total_links": 18,
     "matches": [
-        {
-            "Category": "Cricket",
-            "Tour/Group name": "T20I Tri-Series",
-            "match name": "South Africa vs Zimbabwe",
-            "Team 1 Name": "South Africa",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
-            "Team 2 Name": "Zimbabwe",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
-            "Start time": "2026-09-01T12:00:00.000Z",
-            "End time": "2026-09-01T15:30:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://crichd.top/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "channel_name": "Channel HD",
-                    "channel_language": "English",
-                    "stream_url": "",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "CricGo 2",
-                    "channel_language": "English",
-                    "stream_url": "https://crichdsee.st/player.php?id=cricgo2",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                }
-            ]
-        },
         {
             "Category": "Cricket",
             "Tour/Group name": "CPL T20",
