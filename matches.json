@@ -1,7 +1,7 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-09-04 09:41:24 PM (BD Time)",
+    "last_updated": "2026-09-05 02:12:56 AM (BD Time)",
     "total_links": 14,
     "matches": [
         {
@@ -65,14 +65,14 @@
         {
             "Category": "Cricket",
             "Tour/Group name": "T20I Tri-Series",
-            "match name": "Namibia vs South Africa",
-            "Team 1 Name": "Namibia",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/namibia/logo.webp",
-            "Team 2 Name": "South Africa",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
-            "Start time": "2026-09-04T12:00:00.000Z",
-            "End time": "2026-09-04T15:30:00.000Z",
-            "Status": "LIVE",
+            "match name": "South Africa vs Zimbabwe",
+            "Team 1 Name": "South Africa",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
+            "Team 2 Name": "Zimbabwe",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
+            "Start time": "2026-09-06T12:00:00.000Z",
+            "End time": "2026-09-06T15:30:00.000Z",
+            "Status": "UPCOMING",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
