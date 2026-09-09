@@ -1,7 +1,7 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-09-09 08:51:13 AM (BD Time)",
+    "last_updated": "2026-09-09 04:42:14 PM (BD Time)",
     "total_links": 14,
     "matches": [
         {
@@ -72,7 +72,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
             "Start time": "2026-09-09T07:30:00.000Z",
             "End time": "2026-09-09T11:00:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -102,7 +102,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/england/logo.webp",
             "Start time": "2026-09-09T09:30:00.000Z",
             "End time": "2026-09-09T13:00:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
