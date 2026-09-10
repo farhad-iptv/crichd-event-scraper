@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-09-10 09:46:27 PM (BD Time)",
-    "total_links": 14,
+    "last_updated": "2026-09-11 02:22:40 AM (BD Time)",
+    "total_links": 15,
     "matches": [
         {
             "Category": "Cricket",
@@ -145,6 +145,29 @@
                     "channel_name": "Sky Cricket",
                     "channel_language": "English",
                     "stream_url": "https://crichdsee.st/player.php?id=crich2",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "India vs AFG",
+            "match name": "India vs Afghanistan",
+            "Team 1 Name": "India",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+            "Team 2 Name": "Afghanistan",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
+            "Start time": "2026-09-13T13:30:00.000Z",
+            "End time": "2026-09-13T17:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
