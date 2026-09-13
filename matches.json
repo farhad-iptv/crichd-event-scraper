@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-09-13 05:01:39 PM (BD Time)",
-    "total_links": 21,
+    "last_updated": "2026-09-13 09:32:36 PM (BD Time)",
+    "total_links": 22,
     "matches": [
         {
             "Category": "Cricket",
@@ -14,7 +14,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
             "Start time": "2026-09-13T13:30:00.000Z",
             "End time": "2026-09-13T17:00:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -40,6 +40,13 @@
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
+                    "channel_name": "Astro Cricket",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=astrocric",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
                     "channel_name": "CricGo 1",
                     "channel_language": "English",
                     "stream_url": "https://crichdsee.st/player.php?id=cricgo1",
@@ -48,7 +55,7 @@
                 },
                 {
                     "channel_name": "CricGo 4",
-                    "channel_language": "English",
+                    "channel_language": "Hindi",
                     "stream_url": "https://crichdsee.st/player.php?id=cricgo4",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
