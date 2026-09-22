@@ -1,9 +1,83 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-09-22 03:38:57 AM (BD Time)",
-    "total_links": 7,
+    "last_updated": "2026-09-22 09:05:27 AM (BD Time)",
+    "total_links": 15,
     "matches": [
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "T20 Match",
+            "match name": "India vs Japan",
+            "Team 1 Name": "India",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+            "Team 2 Name": "Japan",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/japan/logo.webp",
+            "Start time": "2026-09-22T04:00:00.000Z",
+            "End time": "2026-09-22T07:30:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Willow Cricket",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=willow",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Willow HD",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=willowhd",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "CricGo 1",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=cricgo1",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "Domestic",
+            "match name": "Queensland vs New South Wales",
+            "Team 1 Name": "Queensland",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/queensland/logo.webp",
+            "Team 2 Name": "New South Wales",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/new-south-wales/logo.webp",
+            "Start time": "2026-09-22T04:00:00.000Z",
+            "End time": "2026-09-22T07:30:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "CricGo 6",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=cricgo6",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
         {
             "Category": "Cricket",
             "Tour/Group name": "ENG vs SL",
@@ -64,6 +138,52 @@
                     "channel_name": "Sky Cricket",
                     "channel_language": "English",
                     "stream_url": "https://crichdsee.st/player.php?id=crich2",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "Asian Games",
+            "match name": "Asian Games T20",
+            "Team 1 Name": "Asian Games T20",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/asian-games-t20/logo.webp",
+            "Team 2 Name": "TBD",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
+            "Start time": "2026-09-23T23:45:00.000Z",
+            "End time": "2026-09-24T03:15:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "AUS vs SA",
+            "match name": "Australia vs South Africa",
+            "Team 1 Name": "Australia",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+            "Team 2 Name": "South Africa",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
+            "Start time": "2026-09-24T07:45:00.000Z",
+            "End time": "2026-09-24T11:15:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
