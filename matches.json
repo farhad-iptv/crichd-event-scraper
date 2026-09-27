@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-09-27 09:25:13 AM (BD Time)",
-    "total_links": 34,
+    "last_updated": "2026-09-27 05:18:45 PM (BD Time)",
+    "total_links": 35,
     "matches": [
         {
             "Category": "Cricket",
@@ -14,7 +14,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
             "Start time": "2026-09-27T07:45:00.000Z",
             "End time": "2026-09-27T11:15:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -72,7 +72,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
             "Start time": "2026-09-27T08:00:00.000Z",
             "End time": "2026-09-27T11:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -112,6 +112,13 @@
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
+                    "channel_name": "Astro Cricket",
+                    "channel_language": "English",
+                    "stream_url": "https://crichdsee.st/player.php?id=astrocric",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
                     "channel_name": "TNT Cricket",
                     "channel_language": "English",
                     "stream_url": "https://crichdsee.st/player.php?id=btsp5",
@@ -130,7 +137,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
             "Start time": "2026-09-27T09:30:00.000Z",
             "End time": "2026-09-27T13:00:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
