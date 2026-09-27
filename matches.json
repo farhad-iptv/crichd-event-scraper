@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-09-27 10:19:12 PM (BD Time)",
-    "total_links": 35,
+    "last_updated": "2026-09-28 02:47:47 AM (BD Time)",
+    "total_links": 31,
     "matches": [
         {
             "Category": "Cricket",
@@ -122,50 +122,6 @@
                     "channel_name": "TNT Cricket",
                     "channel_language": "English",
                     "stream_url": "https://crichdsee.st/player.php?id=btsp5",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                }
-            ]
-        },
-        {
-            "Category": "Cricket",
-            "Tour/Group name": "ENG vs SL",
-            "match name": "England vs Sri Lanka",
-            "Team 1 Name": "England",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-            "Team 2 Name": "Sri Lanka",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
-            "Start time": "2026-09-27T09:30:00.000Z",
-            "End time": "2026-09-27T13:00:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://crichd.top/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "channel_name": "Channel HD",
-                    "channel_language": "English",
-                    "stream_url": "",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Sony Sports Ten 1",
-                    "channel_language": "English",
-                    "stream_url": "https://crichdsee.st/player.php?id=ten1",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "CricLife 1",
-                    "channel_language": "English",
-                    "stream_url": "https://crichdsee.st/player.php?id=criclife1",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Sky Cricket",
-                    "channel_language": "English",
-                    "stream_url": "https://crichdsee.st/player.php?id=crich2",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
