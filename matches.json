@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-10-07 06:34:42 PM (BD Time)",
-    "total_links": 22,
+    "last_updated": "2026-10-08 04:36:55 AM (BD Time)",
+    "total_links": 24,
     "matches": [
         {
             "Category": "Cricket",
@@ -49,21 +49,21 @@
                 {
                     "channel_name": "Star Sports Hindi",
                     "channel_language": "Hindi",
-                    "stream_url": "https://playsza.st/player.php?id=starsp3",
+                    "stream_url": "https://playsza.ru/player.php?id=starsp3",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
                     "channel_name": "Willow HD",
                     "channel_language": "English",
-                    "stream_url": "https://playsza.ru/player.php?id=willowhd",
+                    "stream_url": "https://playsza.st/player.php?id=willowhd",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
                     "channel_name": "CricGo 1",
                     "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=cricgo1",
+                    "stream_url": "https://playsza.ru/player.php?id=cricgo1",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
@@ -93,7 +93,7 @@
                 {
                     "channel_name": "Willow Cricket",
                     "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=willow",
+                    "stream_url": "https://playsza.ru/player.php?id=willow",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
@@ -107,28 +107,28 @@
                 {
                     "channel_name": "Star Sports Hindi",
                     "channel_language": "Hindi",
-                    "stream_url": "https://playsza.ru/player.php?id=starsp3",
+                    "stream_url": "https://playsza.xyz/player.php?id=starsp3",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
                     "channel_name": "Willow HD",
                     "channel_language": "English",
-                    "stream_url": "https://playsza.ru/player.php?id=willowhd",
+                    "stream_url": "https://playsza.st/player.php?id=willowhd",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
                     "channel_name": "Astro Cricket",
                     "channel_language": "English",
-                    "stream_url": "https://playsza.xyz/player.php?id=astrocric",
+                    "stream_url": "https://playsza.st/player.php?id=astrocric",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
                     "channel_name": "CricGo 2",
                     "channel_language": "English",
-                    "stream_url": "https://playsza.ru/player.php?id=cricgo2",
+                    "stream_url": "https://playsza.st/player.php?id=cricgo2",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
@@ -142,7 +142,30 @@
                 {
                     "channel_name": "Star Sports 1 Telugu",
                     "channel_language": "Telugu",
-                    "stream_url": "https://playsza.ru/player.php?id=starsp1tel",
+                    "stream_url": "https://playsza.st/player.php?id=starsp1tel",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "AFG vs BAN",
+            "match name": "Test Match Bangladesh vs Afghanistan",
+            "Team 1 Name": "Match Bangladesh",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/match-bangladesh/logo.webp",
+            "Team 2 Name": "Afghanistan",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
+            "Start time": "2026-10-09T06:00:00.000Z",
+            "End time": "2026-10-09T09:30:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
@@ -172,21 +195,21 @@
                 {
                     "channel_name": "Willow Cricket",
                     "channel_language": "English",
-                    "stream_url": "https://playsza.xyz/player.php?id=willow",
+                    "stream_url": "https://playsza.st/player.php?id=willow",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
                     "channel_name": "A Sports HD",
                     "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=asports",
+                    "stream_url": "https://playsza.ru/player.php?id=asports",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
                     "channel_name": "CricGo 5",
                     "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=cricgo5",
+                    "stream_url": "https://playsza.xyz/player.php?id=cricgo5",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
@@ -200,7 +223,30 @@
                 {
                     "channel_name": "Sky Cricket",
                     "channel_language": "English",
-                    "stream_url": "https://playsza.ru/player.php?id=crich2",
+                    "stream_url": "https://playsza.xyz/player.php?id=crich2",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "Pak vs SL",
+            "match name": "1st T20 Pakistan vs Sri Lanka",
+            "Team 1 Name": "Pakistan",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
+            "Team 2 Name": "Sri Lanka",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
+            "Start time": "2026-10-09T13:00:00.000Z",
+            "End time": "2026-10-09T16:30:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
