@@ -1,7 +1,7 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-10-18 08:49:58 AM (BD Time)",
+    "last_updated": "2026-10-18 04:18:35 PM (BD Time)",
     "total_links": 20,
     "matches": [
         {
@@ -14,7 +14,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
             "Start time": "2026-10-18T08:00:00.000Z",
             "End time": "2026-10-18T11:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -65,7 +65,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
             "Start time": "2026-10-18T08:00:00.000Z",
             "End time": "2026-10-18T11:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -77,9 +77,9 @@
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
-                    "channel_name": "Willow Cricket",
+                    "channel_name": "Willow Xtra",
                     "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=willow",
+                    "stream_url": "https://playsza.st/player.php?id=willowextra",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
