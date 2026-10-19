@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-10-19 09:02:56 AM (BD Time)",
-    "total_links": 11,
+    "last_updated": "2026-10-19 05:59:18 PM (BD Time)",
+    "total_links": 18,
     "matches": [
         {
             "Category": "Cricket",
@@ -72,7 +72,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
             "Start time": "2026-10-19T11:30:00.000Z",
             "End time": "2026-10-19T15:00:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -116,6 +116,119 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
             "Start time": "2026-10-20T08:00:00.000Z",
             "End time": "2026-10-20T11:30:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "Tri-Series",
+            "match name": "Bangladesh vs Afghanistan",
+            "Team 1 Name": "Bangladesh",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
+            "Team 2 Name": "Afghanistan",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
+            "Start time": "2026-10-21T11:30:00.000Z",
+            "End time": "2026-10-21T15:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Willow Xtra",
+                    "channel_language": "English",
+                    "stream_url": "https://playsza.st/player.php?id=willowextra",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "T Sports HD",
+                    "channel_language": "English",
+                    "stream_url": "https://playsza.st/player.php?id=gtv",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "CricGo 3",
+                    "channel_language": "English",
+                    "stream_url": "https://playsza.st/player.php?id=cricgo3",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "IND vs NZ",
+            "match name": "1st T20 India vs New Zealand",
+            "Team 1 Name": "India",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+            "Team 2 Name": "New Zealand",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+            "Start time": "2026-10-22T07:00:00.000Z",
+            "End time": "2026-10-22T10:30:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "Tri-Series",
+            "match name": "England vs Sri Lanka",
+            "Team 1 Name": "England",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+            "Team 2 Name": "Sri Lanka",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
+            "Start time": "2026-10-22T08:00:00.000Z",
+            "End time": "2026-10-22T11:30:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "IND vs NZ",
+            "match name": "2nd T20 India vs New Zealand",
+            "Team 1 Name": "India",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+            "Team 2 Name": "New Zealand",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+            "Start time": "2026-10-24T07:00:00.000Z",
+            "End time": "2026-10-24T10:30:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
