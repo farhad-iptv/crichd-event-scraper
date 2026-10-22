@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-10-22 09:06:08 AM (BD Time)",
-    "total_links": 27,
+    "last_updated": "2026-10-22 05:04:53 PM (BD Time)",
+    "total_links": 26,
     "matches": [
         {
             "Category": "Cricket",
@@ -14,7 +14,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
             "Start time": "2026-10-22T07:00:00.000Z",
             "End time": "2026-10-22T10:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -93,7 +93,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
             "Start time": "2026-10-22T08:00:00.000Z",
             "End time": "2026-10-22T11:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -151,7 +151,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
             "Start time": "2026-10-22T08:00:00.000Z",
             "End time": "2026-10-22T11:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -163,9 +163,9 @@
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
-                    "channel_name": "Willow Cricket",
+                    "channel_name": "Willow",
                     "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=willow",
+                    "stream_url": "https://playsza.st/player.php?id=willowbuzz",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
@@ -173,13 +173,6 @@
                     "channel_name": "PTV Sports",
                     "channel_language": "English",
                     "stream_url": "https://playsza.st/player.php?id=ptvsp",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Willow HD",
-                    "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=willowhd",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
