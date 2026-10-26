@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-10-26 02:19:49 AM (BD Time)",
-    "total_links": 4,
+    "last_updated": "2026-10-26 08:58:50 AM (BD Time)",
+    "total_links": 6,
     "matches": [
         {
             "Category": "Cricket",
@@ -29,6 +29,36 @@
                     "channel_name": "CricLife 2",
                     "channel_language": "English",
                     "stream_url": "https://playsza.st/player.php?id=criclife2",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "T20 League",
+            "match name": "NPL T20",
+            "Team 1 Name": "NPL T20",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/npl-t20/logo.webp",
+            "Team 2 Name": "TBD",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
+            "Start time": "2026-10-26T10:45:00.000Z",
+            "End time": "2026-10-26T14:15:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "CricGo 2",
+                    "channel_language": "English",
+                    "stream_url": "https://playsza.st/player.php?id=cricgo2",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
