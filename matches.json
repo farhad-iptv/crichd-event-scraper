@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-10-30 04:23:51 AM (BD Time)",
-    "total_links": 28,
+    "last_updated": "2026-10-30 10:09:57 AM (BD Time)",
+    "total_links": 29,
     "matches": [
         {
             "Category": "Cricket",
@@ -50,6 +50,13 @@
                     "channel_name": "Fox Cricket",
                     "channel_language": "English",
                     "stream_url": "https://playsza.st/player.php?id=fox501",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Sky Cricket",
+                    "channel_language": "English",
+                    "stream_url": "https://playsza.st/player.php?id=crich2",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
@@ -102,7 +109,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
             "Start time": "2026-10-30T00:30:00.000Z",
             "End time": "2026-10-30T04:00:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
