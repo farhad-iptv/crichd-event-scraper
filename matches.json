@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-10-30 06:03:12 PM (BD Time)",
-    "total_links": 20,
+    "last_updated": "2026-10-31 03:54:36 AM (BD Time)",
+    "total_links": 21,
     "matches": [
         {
             "Category": "Cricket",
@@ -219,6 +219,29 @@
                     "channel_name": "Sky Cricket",
                     "channel_language": "English",
                     "stream_url": "https://playsza.st/player.php?id=crich2",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "IND vs NZ",
+            "match name": "5th T20 India vs New Zealand",
+            "Team 1 Name": "India",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+            "Team 2 Name": "New Zealand",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+            "Start time": "2026-11-01T07:00:00.000Z",
+            "End time": "2026-11-01T10:30:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
