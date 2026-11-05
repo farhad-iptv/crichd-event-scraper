@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-11-05 10:54:59 AM (BD Time)",
-    "total_links": 14,
+    "last_updated": "2026-11-05 07:56:01 PM (BD Time)",
+    "total_links": 15,
     "matches": [
         {
             "Category": "Cricket",
@@ -51,7 +51,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
             "Start time": "2026-11-05T05:00:00.000Z",
             "End time": "2026-11-05T08:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -66,6 +66,13 @@
                     "channel_name": "Willow Xtra",
                     "channel_language": "English",
                     "stream_url": "https://playsza.st/player.php?id=willowextra",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "PTV Sports",
+                    "channel_language": "English",
+                    "stream_url": "https://playsza.st/player.php?id=ptvsp",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
@@ -95,7 +102,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
             "Start time": "2026-11-05T06:00:00.000Z",
             "End time": "2026-11-05T09:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -132,7 +139,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
             "Start time": "2026-11-05T06:45:00.000Z",
             "End time": "2026-11-05T10:15:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
