@@ -1,7 +1,7 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-11-07 04:40:57 AM (BD Time)",
+    "last_updated": "2026-11-07 10:26:25 AM (BD Time)",
     "total_links": 28,
     "matches": [
         {
@@ -14,7 +14,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
             "Start time": "2026-11-07T02:00:00.000Z",
             "End time": "2026-11-07T05:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -93,7 +93,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
             "Start time": "2026-11-07T04:00:00.000Z",
             "End time": "2026-11-07T07:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
