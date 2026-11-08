@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-11-08 06:41:06 PM (BD Time)",
-    "total_links": 19,
+    "last_updated": "2026-11-09 03:38:34 AM (BD Time)",
+    "total_links": 31,
     "matches": [
         {
             "Category": "Cricket",
@@ -12,9 +12,9 @@
             "Team 1 Logo": "https://cdn.img4every1.org/team/bangladesh/logo.webp",
             "Team 2 Name": "West Indies",
             "Team 2 Logo": "https://cdn.img4every1.org/team/west-indies/logo.webp",
-            "Start time": "2026-11-07T04:00:00.000Z",
-            "End time": "2026-11-07T07:30:00.000Z",
-            "Status": "LIVE",
+            "Start time": "2026-11-09T03:30:00.000Z",
+            "End time": "2026-11-09T07:00:00.000Z",
+            "Status": "UPCOMING",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -43,15 +43,59 @@
         },
         {
             "Category": "Cricket",
+            "Tour/Group name": "Pak vs SL",
+            "match name": "1st Test Pakistan vs Sri Lanka",
+            "Team 1 Name": "Pakistan",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
+            "Team 2 Name": "Sri Lanka",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/sri-lanka/logo.webp",
+            "Start time": "2026-11-09T04:30:00.000Z",
+            "End time": "2026-11-09T08:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Willow Cricket",
+                    "channel_language": "English",
+                    "stream_url": "https://playsza.st/player.php?id=willow",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "PTV Sports",
+                    "channel_language": "English",
+                    "stream_url": "https://playsza.st/player.php?id=ptvsp",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Willow HD",
+                    "channel_language": "English",
+                    "stream_url": "https://playsza.st/player.php?id=willowhd",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
             "Tour/Group name": "Asia Cup",
             "match name": "U-19 Asia Cup",
             "Team 1 Name": "U-19 Asia Cup",
             "Team 1 Logo": "https://cdn.img4every1.org/team/u-19-asia-cup/logo.webp",
             "Team 2 Name": "TBD",
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
-            "Start time": "2026-11-07T05:00:00.000Z",
-            "End time": "2026-11-07T08:30:00.000Z",
-            "Status": "LIVE",
+            "Start time": "2026-11-09T05:00:00.000Z",
+            "End time": "2026-11-09T08:30:00.000Z",
+            "Status": "UPCOMING",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -84,13 +128,6 @@
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
-                    "channel_name": "Sony Sports Ten 2",
-                    "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=ten2",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
                     "channel_name": "CricGo 6",
                     "channel_language": "English",
                     "stream_url": "https://playsza.st/player.php?id=cricgo6",
@@ -107,9 +144,9 @@
             "Team 1 Logo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
             "Team 2 Name": "Zimbabwe",
             "Team 2 Logo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
-            "Start time": "2026-11-07T06:00:00.000Z",
-            "End time": "2026-11-07T09:30:00.000Z",
-            "Status": "LIVE",
+            "Start time": "2026-11-09T06:00:00.000Z",
+            "End time": "2026-11-09T09:30:00.000Z",
+            "Status": "UPCOMING",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -144,9 +181,9 @@
             "Team 1 Logo": "https://cdn.img4every1.org/team/npl-t20/logo.webp",
             "Team 2 Name": "TBD",
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
-            "Start time": "2026-11-07T11:15:00.000Z",
-            "End time": "2026-11-07T14:45:00.000Z",
-            "Status": "LIVE",
+            "Start time": "2026-11-09T06:45:00.000Z",
+            "End time": "2026-11-09T10:15:00.000Z",
+            "Status": "UPCOMING",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -181,9 +218,9 @@
             "Team 1 Logo": "https://cdn.img4every1.org/team/abu-dhabi-t10-league/logo.webp",
             "Team 2 Name": "TBD",
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
-            "Start time": "2026-11-07T11:30:00.000Z",
-            "End time": "2026-11-07T15:00:00.000Z",
-            "Status": "LIVE",
+            "Start time": "2026-11-09T11:30:00.000Z",
+            "End time": "2026-11-09T15:00:00.000Z",
+            "Status": "UPCOMING",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -212,6 +249,85 @@
                     "channel_name": "Star Sports 1",
                     "channel_language": "English",
                     "stream_url": "https://playsza.st/player.php?id=starsp",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "IND vs NZ",
+            "match name": "3rd ODI India vs New Zealand",
+            "Team 1 Name": "India",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+            "Team 2 Name": "New Zealand",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+            "Start time": "2026-11-10T02:00:00.000Z",
+            "End time": "2026-11-10T05:30:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://crichd.top/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "channel_name": "Channel HD",
+                    "channel_language": "English",
+                    "stream_url": "",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Willow Cricket",
+                    "channel_language": "English",
+                    "stream_url": "https://playsza.st/player.php?id=willow",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Sony Sports Ten 5",
+                    "channel_language": "English",
+                    "stream_url": "https://playsza.st/player.php?id=sonysix",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Sony Sports Ten 1",
+                    "channel_language": "English",
+                    "stream_url": "https://playsza.st/player.php?id=ten1",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Sony Sports Ten 3",
+                    "channel_language": "Hindi",
+                    "stream_url": "https://playsza.st/player.php?id=ten3",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Willow HD",
+                    "channel_language": "English",
+                    "stream_url": "https://playsza.st/player.php?id=willowhd",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "CricLife 1",
+                    "channel_language": "English",
+                    "stream_url": "https://playsza.st/player.php?id=criclife1",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Astro Cricket",
+                    "channel_language": "English",
+                    "stream_url": "https://playsza.st/player.php?id=astrocric",
+                    "referer": "https://crichd.top/",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                },
+                {
+                    "channel_name": "Sony Sports Ten 4",
+                    "channel_language": "Tamil",
+                    "stream_url": "https://playsza.st/player.php?id=sonyespn",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
