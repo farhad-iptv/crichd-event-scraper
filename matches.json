@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-11-09 09:01:35 PM (BD Time)",
-    "total_links": 25,
+    "last_updated": "2026-11-10 07:07:43 AM (BD Time)",
+    "total_links": 24,
     "matches": [
         {
             "Category": "Cricket",
@@ -26,9 +26,9 @@
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
-                    "channel_name": "Willow Cricket",
+                    "channel_name": "Willow Xtra",
                     "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=willow",
+                    "stream_url": "https://playsza.st/player.php?id=willowextra",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
@@ -36,13 +36,6 @@
                     "channel_name": "PTV Sports",
                     "channel_language": "English",
                     "stream_url": "https://playsza.st/player.php?id=ptvsp",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Willow HD",
-                    "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=willowhd",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
