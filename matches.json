@@ -1,7 +1,7 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-11-20 06:15:00 AM (BD Time)",
+    "last_updated": "2026-11-20 08:50:13 PM (BD Time)",
     "total_links": 24,
     "matches": [
         {
@@ -216,8 +216,8 @@
             "Team 1 Logo": "https://cdn.img4every1.org/team/asia-cup-rising-stars/logo.webp",
             "Team 2 Name": "TBD",
             "Team 2 Logo": "https://cdn.img4every1.org/team/default/logo.webp",
-            "Start time": "2026-11-20T06:00:00.000Z",
-            "End time": "2026-11-20T09:30:00.000Z",
+            "Start time": "2026-11-19T06:00:00.000Z",
+            "End time": "2026-11-19T09:30:00.000Z",
             "Status": "LIVE",
             "referer": "https://crichd.top/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
