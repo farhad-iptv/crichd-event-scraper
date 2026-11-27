@@ -1,8 +1,8 @@
 {
     "playlist_name": "CricHD Live Sports Events",
     "owner": "Farhad Hossain",
-    "last_updated": "2026-11-27 07:27:08 AM (BD Time)",
-    "total_links": 32,
+    "last_updated": "2026-11-27 10:02:47 PM (BD Time)",
+    "total_links": 25,
     "matches": [
         {
             "Category": "Cricket",
@@ -135,9 +135,9 @@
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
                 {
-                    "channel_name": "Willow Cricket",
+                    "channel_name": "Willow Xtra",
                     "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=willow",
+                    "stream_url": "https://playsza.st/player.php?id=willowextra",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
@@ -152,13 +152,6 @@
                     "channel_name": "Sony Sports Ten 1",
                     "channel_language": "English",
                     "stream_url": "https://playsza.st/player.php?id=ten1",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Willow HD",
-                    "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=willowhd",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 },
@@ -245,64 +238,6 @@
                     "channel_name": "Sony Sports Ten 4",
                     "channel_language": "Tamil",
                     "stream_url": "https://playsza.st/player.php?id=sonyespn",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                }
-            ]
-        },
-        {
-            "Category": "Cricket",
-            "Tour/Group name": "AUS vs ENG",
-            "match name": "3rd T20 England vs Australia",
-            "Team 1 Name": "England",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-            "Team 2 Name": "Australia",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-            "Start time": "2026-11-27T08:15:00.000Z",
-            "End time": "2026-11-27T11:45:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://crichd.top/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "channel_name": "Channel HD",
-                    "channel_language": "English",
-                    "stream_url": "",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Willow Cricket",
-                    "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=willow",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Willow HD",
-                    "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=willowhd",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "CricLife 1",
-                    "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=criclife1",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "CricGo 5",
-                    "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=cricgo5",
-                    "referer": "https://crichd.top/",
-                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                },
-                {
-                    "channel_name": "Fox Cricket",
-                    "channel_language": "English",
-                    "stream_url": "https://playsza.st/player.php?id=fox501",
                     "referer": "https://crichd.top/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 }
